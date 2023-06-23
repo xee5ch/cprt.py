@@ -1,4 +1,4 @@
-cprt_schema = {
+{
   "$id": "https://csrc.nist.gov/csrc/media/projects/cprt/documents/schema/cprt_schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "description": "A representation of a set of cybersecurity elements from the NIST Cybersecurity and Privacy Reference Tool (CPRT).",
