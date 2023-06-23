@@ -87,7 +87,7 @@
     },
     "relationship":{
         "type":"object",
-        "required":["source_element_identifier","source_doc_identifier","dest_element_identifier","dest_doc_identifier","provenance_doc_identifier","relationship_identifier"],
+        "required":["source_element_identifier","source_doc_identifier","dest_element_identifier","dest_doc_identifier","relationship_identifier"],
         "properties":{
             "source_element_identifier":{
                 "type":"string",
