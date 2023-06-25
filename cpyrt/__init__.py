@@ -1,3 +1,4 @@
 #!/usr/bin/env
 
-from .models import Model as CPRT
+from .models import CPRTCoreModel as CPRT
+from .utils import unwrap
